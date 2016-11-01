@@ -1,0 +1,6 @@
+{
+  "name": "Mytest",
+  "tagline": "这是一个Github测试的项目",
+  "body": "# Monk.UI\r\n\r\n原生Javascript开发，不依赖任何第三方框架，赶快让你的表单亮起来吧！\r\n\r\n## 作者信息\r\n\r\n- 原创作者：`百小僧`\r\n\r\n- 开源协议：`MIT License`\r\n\r\n- 开发时间：`MIT License`\r\n\r\n## 效果图\r\n\r\n[这里是一个预览地址](http://www.baisoft.org/public/monkui/)\r\n\r\n\r\n```javascript\r\nfor(var i=0;i<10;i++){\r\n    console.log(i);\r\n}\r\n```\r\n\r\n![链接](https://camo.githubusercontent.com/cb75fb1999324b64591ecad44137adb4eb645f87/687474703a2f2f696d616765732e636e626c6f67732e636f6d2f636e626c6f67735f636f6d2f626169736f66742f3836353435382f6f5f2565362538642539302565382562352561302e706e67)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
